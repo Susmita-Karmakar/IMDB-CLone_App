@@ -12,5 +12,14 @@ Users can also mark their favorite movies for easy access in the future.
 
 
 
+The interfaces of the application are as below :
+------------------------------------------------
 
+![image](https://github.com/Susmita-Karmakar/IMDB-CLone_App/assets/67648510/a395f15a-cfcd-4c8e-835d-ca5314c6bb17)
+
+
+![image](https://github.com/Susmita-Karmakar/IMDB-CLone_App/assets/67648510/bcf10db0-b73e-49b7-917f-437b22938235)
+
+
+![image](https://github.com/Susmita-Karmakar/IMDB-CLone_App/assets/67648510/cab63c7e-3023-492f-9f33-3f747353bdd4)
 
